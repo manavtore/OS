@@ -35,7 +35,6 @@ void *philos(void * n){
     printf("Philospher %d leaves the Right chopstick\n",ph);
     sem_post(&chopstick[ph]);
     printf("Philospher %d leaves the left chopstick\n",ph);
-    
     return NULL;
     
 }
