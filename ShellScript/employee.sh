@@ -84,3 +84,5 @@ while true; do
             ;;
     esac
 done
+
+# awk '{ sum+=$1;print $1} END {print "Sum";print sum}' emp.txt
