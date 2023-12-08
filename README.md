@@ -17,7 +17,7 @@ Follow the steps below to get a copy of this project up and running on your loca
 3. Clone this repository using the following command:
 
     ```bash
-    git clone https://github.com/manavtore/OperatingSystem.git
+    https://github.com/manavtore/OS.git
     ```
 
 To compile a `file.c` and run the output file, follow these steps:
